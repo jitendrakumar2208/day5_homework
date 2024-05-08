@@ -1,0 +1,12 @@
+.input_container {
+  margin: 50px 40px;
+  padding: 10 15px;
+}
+.input_container h1 {
+}
+.text {
+  margin-top: 15px;
+}
+.text input {
+  width: 40px;
+}
